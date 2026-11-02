@@ -1,6 +1,8 @@
+# Source of Casks/agentlight.rb in grisha-gu/homebrew-tap.
+# The release workflow rewrites `version` and `sha256` and pushes it to the tap.
 cask "agentlight" do
   version "0.2.0"
-  sha256 "7e35afc6e800a4e96d06d619758a87522790f0b4fb1d0095f7321e2b9c7625aa"
+  sha256 "38a373a3f92ecfe53092f881a748d3aad613ba6d8fd934fc34415f2174ba0882"
 
   url "https://github.com/grisha-gu/agentlight/releases/download/v#{version}/AgentLight-#{version}.zip"
   name "AgentLight"
