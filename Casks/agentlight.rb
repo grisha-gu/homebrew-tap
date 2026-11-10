@@ -1,6 +1,6 @@
 cask "agentlight" do
-  version "0.2.0"
-  sha256 "38a373a3f92ecfe53092f881a748d3aad613ba6d8fd934fc34415f2174ba0882"
+  version "0.3.0"
+  sha256 "df6656b3395397259b649b32fc9edf0ef64e08df3bcb40596a014d7b37dd263b"
 
   url "https://github.com/grisha-gu/agentlight/releases/download/v#{version}/AgentLight-#{version}.zip"
   name "AgentLight"
